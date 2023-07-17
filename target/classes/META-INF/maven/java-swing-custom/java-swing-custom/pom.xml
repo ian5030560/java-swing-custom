@@ -23,12 +23,5 @@
       </plugin>
     </plugins>
   </build>
-  <dependencies>
-	<dependency>
-	    <groupId>org.bytedeco</groupId>
-	    <artifactId>javacv-platform</artifactId>
-	    <version>1.5.8</version>
-  	</dependency>  
-  </dependencies>
 
 </project>
